@@ -1,0 +1,6 @@
+OS Junk Files
+[Th]humbs.db
+.DS_Store
+
+#api
+api_keys.py
